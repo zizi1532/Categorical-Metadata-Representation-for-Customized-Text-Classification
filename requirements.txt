@@ -1,4 +1,4 @@
-tqdm==4.29.1
+tqdm==4.66.3
 pytorch-ignite==0.1.2
 numpy==1.15.4
 argparse==1.1
